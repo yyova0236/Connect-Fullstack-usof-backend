@@ -39,13 +39,13 @@
 Below are sample screenshots showing the API in use via Postman:
 
 ### 1. **User Registration**
-![User Registration Screenshot](./docs/screenshots/user-registration.png)
+![User Registration](./docs/screenshots/User_registration.png)
 
 ### 2. **Post Creation**
-![Post Creation Screenshot](./docs/screenshots/post-creation.png)
+![Post Creation](./docs/screenshots/Post_creation.png)
 
 ### 3. **Error Handling**
-![Error Handling Screenshot](./docs/screenshots/error-handling.png)
+![Error Handling](./docs/screenshots/Error_handling.png)
 
 ---
 
@@ -83,3 +83,6 @@ Refer to the `package.json` file for the full list of dependencies.
 - **Prisma CLI**: Database schema management and migrations.
 
 ---
+
+Follow this link to access the Postman collection, where you can view all available endpoints, test their functionality, and interact directly with my server:
+[Postman Collection](https://www.postman.com/descent-module-physicist-7797554/connect-fullstack-usof-backend/collection/iboqdyc/api-server?action=share&creator=38623177).
