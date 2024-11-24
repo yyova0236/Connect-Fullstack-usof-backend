@@ -20,7 +20,7 @@
 - Add comments to posts.
 - Retrieve specific comments by ID.
 - Update comment status (ACTIVE or INACTIVE).
-- Delete comments (Admin or Author only).
+- Delete comments.
 ## Category Management
 - Admins can create, update, and delete categories.
 - View all categories or get a specific category by ID.
@@ -28,7 +28,7 @@
 ## Likes System
 - Users can like or dislike comments.
 - View all likes for a specific comment.
-- Delete likes (Users can only delete their own likes).
+- Delete likes.
 ## Error Handling
 - Provides detailed error messages for failed operations.
 - Uses consistent HTTP status codes.
